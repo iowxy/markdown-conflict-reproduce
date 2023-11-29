@@ -1,0 +1,19 @@
+{
+  "name": "markdown-conflict-reproduce",
+  "private": true,
+  "scripts": {
+    "start": "vite serve"
+  },
+  "volta": {
+    "node": "18.16.1",
+    "pnpm": "8.10.2"
+  },
+  "dependencies": {
+    "@tiptap/core": "^2.1.12",
+    "@tiptap/starter-kit": "^2.1.12",
+    "tiptap-markdown": "^0.8.4"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
